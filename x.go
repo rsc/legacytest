@@ -1,4 +1,4 @@
 package legacytest
 
-// add comment again!!!
+// add comment hack hack hack
 const X = 1
