@@ -1,4 +1,4 @@
 package legacytest
 
-// add comment
+// add comment again
 const X = 1
