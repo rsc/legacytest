@@ -1,3 +1,2 @@
 package legacytest
-
-const X = 1
+const XX = 2
